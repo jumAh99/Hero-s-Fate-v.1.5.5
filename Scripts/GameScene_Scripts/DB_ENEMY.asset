@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aebf1b789478fe54f843c06d7734b134, type: 3}
+  m_Name: DB_ENEMY
+  m_EditorClassIdentifier: 
+  charList:
+  - nameChamp: PURPLE
+    prefabChamp: {fileID: 5856229395948887613, guid: cdeba18572801f34d9a37855f339096c, type: 3}
+    champNumber: 0
+  - nameChamp: ODD
+    prefabChamp: {fileID: 7714551335355727551, guid: aeadbdb53d2994d4e96370891c4bdc9c, type: 3}
+    champNumber: 1
+  - nameChamp: SHADOW
+    prefabChamp: {fileID: 6424217858942079785, guid: f3f9890026770724b8cc3f2e7c1084c8, type: 3}
+    champNumber: 2
+  - nameChamp: EATER
+    prefabChamp: {fileID: 4710481571291114570, guid: 42174d6fd9ec0a643b345f174f20b113, type: 3}
+    champNumber: 3
